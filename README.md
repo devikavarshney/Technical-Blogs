@@ -13,7 +13,7 @@ Jelly Beans Jars - https://www.codingninjas.com/studio/library/jelly-beans-jars
 
 ## Web Technologies
 
-Static Methods and Properties - codingninjas.com/studio/library/static-methods-and-properties
+Static Methods and Properties - [codingninjas.com/studio/library/static-methods-and-properties](https://www.codingninjas.com/studio/library/static-methods-and-properties)
 
 Bootstrap button groups - https://www.codingninjas.com/studio/library/bootstrap-button-groups
 
